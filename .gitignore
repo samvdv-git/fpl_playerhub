@@ -123,3 +123,7 @@ ENV/
 env/
 env.bak/
 venv.bak/
+
+# .env files
+.env
+.env.local
